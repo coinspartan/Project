@@ -1,1 +1,1 @@
-# Project
+Project Spartancoin Build on Thundercore
