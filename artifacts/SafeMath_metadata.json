@@ -1,0 +1,37 @@
+{
+	"compiler": {
+		"version": "0.5.16+commit.9c3226ce"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"SpartanCoin.sol": "SafeMath"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"SpartanCoin.sol": {
+			"keccak256": "0x6222e61925f9450ddfabc3931d4c695054b99c672f5c2738ab61e75b9bddedd4",
+			"urls": [
+				"bzz-raw://91abb2bfc08b688f75f1098fe2a0da2c84ae0f7874eb2a275007a9f4d158e224",
+				"dweb:/ipfs/Qmdpbrctp74u26T7ZRz5UXfj4ZGzbVypdcwHNjx8eakzsM"
+			]
+		}
+	},
+	"version": 1
+}
